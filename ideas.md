@@ -1,2 +1,3 @@
 - When a word has two translations and the user correctly answers with one, ask them if they also know another. (On higher levels)
-- Support for learning two related languages together, such as Thai and Lao. Words which are cognatives in both languages can be in the same colour, when are not then use different colours. 
+- Support for learning two related languages together, such as Thai and Lao. Words which are cognatives in both languages can be in the same colour, when are not then use different colours.
+- For languages which use diacritics, leniently accept answers omitting them. Except when the user's vocabulary includes two words that differ only in diacritics. Instead of just marking them wrong, remind them of this fact and let them try again.
