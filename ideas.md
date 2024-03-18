@@ -1,0 +1,2 @@
+- When a word has two translations and the user correctly answers with one, ask them if they also know another. (On higher levels)
+- Support for learning two related languages together, such as Thai and Lao. Words which are cognatives in both languages can be in the same colour, when are not then use different colours. 
