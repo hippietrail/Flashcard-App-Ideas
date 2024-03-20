@@ -1,3 +1,6 @@
 - When a word has two translations and the user correctly answers with one, ask them if they also know another. (On higher levels)
 - Support for learning two related languages together, such as Thai and Lao. Words which are cognatives in both languages can be in the same colour, when are not then use different colours.
 - For languages which use diacritics, leniently accept answers omitting them. Except when the user's vocabulary includes two words that differ only in diacritics. Instead of just marking them wrong, remind them of this fact and let them try again.
+- For languages which use diacritics, give bonus points or "perfect" if the user inputs all the correct diacritics.
+- For languages which use diacritics, if the user inputs a correct answer without the diacritics, offer bonus points if they can try again with the diacritics.
+- For languages which use diacritics, if the user inputs only some of the correct diacritics, give them more points than for just having the letters correct but less than if they had all the diacritics correct.
