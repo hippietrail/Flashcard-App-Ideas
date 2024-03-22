@@ -4,3 +4,4 @@
 - For languages which use diacritics, give bonus points or "perfect" if the user inputs all the correct diacritics.
 - For languages which use diacritics, if the user inputs a correct answer without the diacritics, offer bonus points if they can try again with the diacritics.
 - For languages which use diacritics, if the user inputs only some of the correct diacritics, give them more points than for just having the letters correct but less than if they had all the diacritics correct.
+- Have a volume control. If you've got YouTube in the background the volume levels can vary a lot so you often have to turn the global volume up with the YouTube volume on 100% to hear it, which can make apps with no volume control too loud.
